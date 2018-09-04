@@ -1,6 +1,6 @@
-# Joyful Music Front-End Repository
+# Visual Search
 
-The repository is front-side scripts of joyful music application. It's developed with vue.js(JS framework), webpack(Bundle management tool), boostrap4(CSS framework). This application works with server-side scripts developed by Ruby on Rails through JSON API. 
+This repository search engine visualizer, easy-to-use and see search result in your local computer. 
 
 ## Build Setup
 
@@ -30,11 +30,3 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 |Bootstrap4|||
 
 ## Installation
-
-```
-$ nvm install v10.5.0 || nvm use v10.5.0
-$ git clone https://github.com/eitake0002/joyful-vue
-$ cd ~/joyful-vue
-$ npm install -g webpack-dev-server
-$ npm run dev
-```
